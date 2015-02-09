@@ -1,0 +1,20 @@
+{
+  "name": "lmuzinic/meetup-next-event-bundle",
+  "description": "Sculpin next meetup event",
+  "keywords": ["meetup.com", "next event"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luka Muzinic",
+      "homepage": "http://luka.muzinic.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "autoload": {
+    "psr-0": { "Lmuzinic\\Sculpin\\Bundle\\MeetupNextEventBundle": "" }
+  },
+  "target-dir": "Lmuzinic/Sculpin/Bundle/MeetupNextEventBundle",
+  "minimum-stability": "beta"
+}
